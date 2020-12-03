@@ -1,4 +1,22 @@
-body{background-color: orange;}
+body{background-color:orange;}
 }
-p{font-style: italic;
+
+#Main{text-align: left;
+color: red;}
+.style{font-style: bold;}
+
+p{font-style: italic
 }
+P{text-align: center;
+font-size: medium
+padding: 20px;
+margin: 20px;
+Border-style:solid;
+border: width 2px;
+border-color: black;
+}
+
+img{margin: auto;
+display: block;
+border: solid;
+border-color: rgb(22, 22, 22);}
